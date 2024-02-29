@@ -47,7 +47,7 @@ def display_help_menu():
         "CNY": ("The People's Republic of China", "Chinese Yuan", "¥"),
         "HKD": ("Hong Kong Special Administrative Region of the People's Republic of China (Hong Kong)", "Hong Kong Dollar", "HK$"),
         "IDR": ("The Republic of Indonesia", "Indonesian Rupiah", "Rp"),
-        "ILS": ("The State of Israel", "Israeli New Sheqel", "₪"),
+        "ILS": ("The State of Israel", "Israeli New Shekel", "₪"),
         "INR": ("The Republic of India", "Indian Rupee", "₹"),
         "KRW": ("Republic of Korea (South Korea)", "South Korean Won", "₩"),
         "MXN": ("United Mexican States", "Mexican Peso", "Mex$"),
