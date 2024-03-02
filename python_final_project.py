@@ -115,6 +115,7 @@ PAGES = {
 }
 
 def main():
+    st.sidebar.image("https://banoqabil.pk/media/logo.png", use_column_width=True)
     st.sidebar.title("Navigation")
     selection = st.sidebar.radio("Go to", list(PAGES.keys()))
     page = PAGES[selection]
